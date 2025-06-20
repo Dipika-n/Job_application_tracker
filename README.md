@@ -1,1 +1,1 @@
-# Job_application_tracker
+# Delete unused file

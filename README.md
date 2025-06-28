@@ -30,7 +30,7 @@ A simple web app built with Flask to help you track your job applications. You c
 job-application-tracker/
 │
 ├── app.py                # Main Flask app
-├── requirements.txt
+├── requirement.txt
 ├── applications.xlsx      # Excel file storing application data
 ├── templates/             # HTML templates
 │   ├── home.html
